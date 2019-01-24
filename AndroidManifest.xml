@@ -31,7 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         android:label="OmniStyle"
         android:icon="@drawable/omnirom_logo"
         android:theme="@style/Theme.OmniStyle" >
-        <!--activity
+        <activity
             android:name=".BrowseHeaderActivity"
             android:label="@string/browse_header" >
             <intent-filter>
@@ -54,7 +54,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity-->
+        </activity>
         <activity
             android:name="org.omnirom.omnistyle.BrowseThemesActivity"
             android:label="@string/pick_theme"
@@ -91,7 +91,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
-        <!--activity
+        <activity
             android:name=".nature"
             android:label="Nature" >
             <intent-filter>
@@ -143,6 +143,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity-->
+        </activity>
     </application>
 </manifest>
