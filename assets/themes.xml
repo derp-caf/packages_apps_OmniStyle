@@ -25,7 +25,7 @@
     <theme name="Eye Soother" accent="org.omnirom.theme.accent.bluemonday"
            thumbnail="thumbnail_eye_soother.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.eyesoother"/>
-    <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
+    <theme name="Slutty Pink" accent="org.omnirom.theme.accent.bubblegumpink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
     <theme name="From Hell" accent="org.omnirom.theme.accent.fromhell"
