@@ -67,24 +67,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".naturerandom"
-            android:label="Nature (random)" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name=".wavvy"
-            android:label="Wavvy" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
             android:name=".colorful"
             android:label="Colorful" >
             <intent-filter>
@@ -102,14 +84,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".alex_veneno"
-            android:label="Poison" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
         <activity
             android:name=".ig_fxckingmind"
             android:label="IG Stuff | fxckingdeathwish's mind" >
@@ -131,15 +105,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".nataliasolaange"
             android:label="IG Stuff | nataliasolaange collection" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_llection"
-            android:label="Collections | Best of COLOURLovers.com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
